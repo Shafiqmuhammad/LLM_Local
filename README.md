@@ -104,3 +104,6 @@ Now, let's guide you through understanding this command:
 
 **Docker image:** Specifies the image to use from GitHub Container Registry.
 
+![image](https://github.com/user-attachments/assets/00901ce1-ea4b-40cf-a526-d16e1212f694)
+
+
