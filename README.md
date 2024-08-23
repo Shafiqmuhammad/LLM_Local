@@ -138,3 +138,7 @@ Note: If you PC hardware is weak you can run the following model:
 ```
 ollama run phi
 ```
+for list containers 
+```
+docker container list
+```
