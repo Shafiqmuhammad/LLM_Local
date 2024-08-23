@@ -106,7 +106,7 @@ Now, let's guide you through understanding this command:
 
 ![image](https://github.com/user-attachments/assets/00901ce1-ea4b-40cf-a526-d16e1212f694)
 
-Step 2: Access the OpenWebUI Interface
+# Step 2: Access the OpenWebUI Interface
 Once both containers are running, you can access the OpenWebUI interface through your web browser. Simply navigate to:
 ```
 http://localhost:3000
@@ -116,7 +116,7 @@ Here, you can interact with the LLM powered by Ollama through a user-friendly we
 ![image](https://github.com/user-attachments/assets/608a1943-5a6b-416f-a398-3251a2693b57)
 
 
-Step 3: Download the Llama Model in the Ollama Container
+# Step 3: Download the Llama Model in the Ollama Container
 To download the Llama 3.1 model within the Ollama container, follow these steps:
 
 Open Docker Dashboard: Navigate to your Docker Dashboard or use the command line.
