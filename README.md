@@ -142,3 +142,21 @@ for list containers
 ```
 docker container list
 ```
+
+# Run the Model Download Command:
+
+In the command input field, type the following command and execute it:
+```
+ollama run llama3.1
+```
+This command will initiate the download of the Llama 3.1 model into the container.
+
+Note: If you PC hardware is weak you can run the following model:
+```
+ollama run phi
+```
+To run the model with the lowest memory usage, use this command:
+```
+ollama run qwen:0.5b
+```
+This command tells Ollama to use the qwen:0.5b model, which is designed to work efficiently on computers with low memory.
