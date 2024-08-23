@@ -163,3 +163,9 @@ This command tells Ollama to use the qwen:0.5b model, which is designed to work 
 
 ![image](https://github.com/user-attachments/assets/952d5414-0ace-46f8-ac9a-731a72c55b4c)
 
+Step 4: Verify the LLM is Running
+To ensure the LLM is running correctly, you can check the logs of the Ollama container:
+```
+docker logs ollama
+```
+You should see the model initialization and any requests being processed. This will confirm that your LLM is up and running smoothly.
