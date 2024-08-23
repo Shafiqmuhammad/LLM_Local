@@ -160,3 +160,6 @@ To run the model with the lowest memory usage, use this command:
 ollama run qwen:0.5b
 ```
 This command tells Ollama to use the qwen:0.5b model, which is designed to work efficiently on computers with low memory.
+
+![image](https://github.com/user-attachments/assets/952d5414-0ace-46f8-ac9a-731a72c55b4c)
+
