@@ -91,10 +91,16 @@ docker run: Creates and starts a new Docker container.
 (link unavailable): Specifies the Docker image to use (from GitHub Container Registry).
 
 Now, let's guide you through understanding this command:
+
 **Port mapping:** Maps host port 3000 to container port 8080.
+
 **Host entry:** Allows the container to access the host machine's network.
+
 **Volume mounting:** Persists data in the container by mounting a host volume.
+
 **Container naming:** Sets the container's name for easy identification.
+
 **Restart policy:** Configures automatic restarts for the container.
+
 **Docker image:** Specifies the image to use from GitHub Container Registry.
 
