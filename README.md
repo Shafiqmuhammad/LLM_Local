@@ -116,3 +116,25 @@ Here, you can interact with the LLM powered by Ollama through a user-friendly we
 ![image](https://github.com/user-attachments/assets/608a1943-5a6b-416f-a398-3251a2693b57)
 
 
+Step 3: Download the Llama Model in the Ollama Container
+To download the Llama 3.1 model within the Ollama container, follow these steps:
+
+Open Docker Dashboard: Navigate to your Docker Dashboard or use the command line.
+
+Access the Ollama Container:
+
+Find the ollama container from the list of running containers.
+Click on the container to open the details.
+Go to the Exec tab (or use docker exec via terminal).
+Run the Model Download Command:
+
+In the command input field, type the following command and execute it:
+```
+ollama run llama3.1
+```
+This command will initiate the download of the Llama 3.1 model into the container.
+
+Note: If you PC hardware is weak you can run the following model:
+```
+ollama run phi
+```
